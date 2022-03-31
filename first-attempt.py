@@ -15,5 +15,4 @@ Created on Thu Mar 31 15:33:00 2022
 
 30*10
 
-
-
+print("Let's enjoy THL")
